@@ -11,6 +11,8 @@ Also emits next to the .tflite:
 
 Usage:
     python cmsis_nn_codegen.py <model.tflite> [model_name]
+
+    To be further updated to add Conv2D, etc
 """
 
 import sys
