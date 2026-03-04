@@ -1,0 +1,71 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# VSCode / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Compiled binaries
+# =========================
+*.exe
+*.out
+*.elf
+*.bin
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# =========================
+# Temporary build files
+# =========================
+*.log
+*.tmp
+*.cache
+
+# =========================
+# Generated test artifacts
+# =========================
+verify.png
+inference_analysis.png
+
+# =========================
+# Python runtime files
+# =========================
+*.pyc
+
+# =========================
+# Jupyter checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Windows PowerShell build artifacts
+# =========================
+*.ps1.log
+
